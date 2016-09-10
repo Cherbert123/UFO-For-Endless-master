@@ -1,0 +1,13 @@
+/Users/league/Desktop/UFO-For-Endless-master/Temp/bin/Debug/UnityEngine.dll
+/Users/league/Desktop/UFO-For-Endless-master/Temp/bin/Debug/UnityEditor.dll
+/Users/league/Desktop/UFO-For-Endless-master/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/league/Desktop/UFO-For-Endless-master/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/league/Desktop/UFO-For-Endless-master/Temp/bin/Debug/Mono.Cecil.dll
+/Users/league/Desktop/UFO-For-Endless-master/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/league/Desktop/UFO-For-Endless-master/Temp/bin/Debug/Unity.DataContract.dll
+/Users/league/Desktop/UFO-For-Endless-master/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/league/Desktop/UFO-For-Endless-master/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/league/Desktop/UFO-For-Endless-master/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/league/Desktop/UFO-For-Endless-master/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/league/Desktop/UFO-For-Endless-master/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/league/Desktop/UFO-For-Endless-master/Temp/bin/Debug/Mono.Cecil.Mdb.dll
